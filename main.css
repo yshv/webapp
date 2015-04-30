@@ -1,0 +1,14 @@
+
+    p, ul, h1 {
+        font-family: 'Roboto', sans-serif;
+    }
+
+
+    body{
+        background-color: #d5d5d5;
+    }
+
+    nav, div, li {
+        margin: 0;
+        padding: 0;
+    }
